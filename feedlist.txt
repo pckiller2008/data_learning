@@ -1,0 +1,3 @@
+http://blog.outer-court.com/rss.xml
+http://blog.topix.net/index.rdf
+http://radar.oreilly.com/index.rdf
